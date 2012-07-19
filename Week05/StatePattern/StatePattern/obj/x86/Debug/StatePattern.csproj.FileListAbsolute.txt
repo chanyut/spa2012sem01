@@ -1,0 +1,5 @@
+D:\Projects\SPA2012SEM01\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+D:\Projects\SPA2012SEM01\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+D:\Projects\SPA2012SEM01\StatePattern\StatePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\SPA2012SEM01\StatePattern\StatePattern\obj\x86\Debug\StatePattern.exe
+D:\Projects\SPA2012SEM01\StatePattern\StatePattern\obj\x86\Debug\StatePattern.pdb
